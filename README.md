@@ -34,13 +34,13 @@ Este proyecto permite a los usuarios agregar nombres a una lista y realizar un s
 ## 📸 Capturas de Pantalla
 
 ### 📌 Página de inicio
-![Página de inicio](img/Amigos_Secretos_index.png)
+![Página de inicio](Img/Amigos_Secretos_index.png)
 
 ### 📌 Listado de amigos cargados
-![Listado de amigos](img/Listado_amigos.png)
+![Listado de amigos](Img/Listado_amigos.png)
 
 ### 📌 Resultado del sorteo
-![Sorteo realizado](img/Sorteo.png)
+![Sorteo realizado](Img/Sorteo.png)
 
 ## 📜 Licencia
 
