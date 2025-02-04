@@ -42,6 +42,3 @@ Este proyecto permite a los usuarios agregar nombres a una lista y realizar un s
 ### 📌 Resultado del sorteo
 ![Sorteo realizado](Img/Sorteo.png)
 
-## 📜 Licencia
-
-Este proyecto está bajo la licencia MIT. ¡Siéntete libre de contribuir y mejorarlo! 😊
